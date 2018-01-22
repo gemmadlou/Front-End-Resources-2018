@@ -8,10 +8,8 @@ https://popmotion.io
 
 ## Command Line
 
-Pipes
-
+#### Pipes
 https://quickleft.com/blog/command-line-tutorials-redirection-pipes/
 
-Sed & Awk
-
+#### Sed & Awk
 https://quickleft.com/blog/command-line-tutorials-sed-awk/
