@@ -9,7 +9,9 @@ https://popmotion.io
 ## Command Line
 
 Pipes
+
 https://quickleft.com/blog/command-line-tutorials-redirection-pipes/
 
 Sed & Awk
+
 https://quickleft.com/blog/command-line-tutorials-sed-awk/
