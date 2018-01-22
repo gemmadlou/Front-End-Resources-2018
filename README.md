@@ -6,7 +6,7 @@ A collation of resources and hopefully some examples
 * Functional javascript animation/motion library
 https://popmotion.io
 
-## Command Line
+## Command Line
 
 Pipes
 https://quickleft.com/blog/command-line-tutorials-redirection-pipes/
