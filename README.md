@@ -11,6 +11,11 @@ https://popmotion.io
 * Horizontal scroll
 https://codepen.io/colinlord/post/horizontal-scrolling-containers
 
+## Useful Frontend Libraries
+
+* Scroll Magic (n).0
+http://scrollmagic.io/examples/basic/section_wipes_natural.html
+
 ## Command Line
 
 #### Pipes
