@@ -6,6 +6,11 @@ A collation of resources and hopefully some examples
 * Functional javascript animation/motion library
 https://popmotion.io
 
+## CSS3 and Vanilla JS
+
+* Horizontal scroll
+https://codepen.io/colinlord/post/horizontal-scrolling-containers
+
 ## Command Line
 
 #### Pipes
