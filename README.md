@@ -27,3 +27,11 @@ sed s/ow/aagh/ ~/file.txt
 echo "how now brown cow" > ~/file.txt
 sed s/ow/aagh/g ~/file.txt
 ```
+
+#### Reinstall All PHP7 Packages
+Especially when working Scotchbox
+
+```bash
+sudo apt-get install --reinstall `dpkg -l | grep 'ii  php7' | awk '{ printf($2" "); next}'`
+sudo service apache2 restart
+```
