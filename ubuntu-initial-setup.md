@@ -1,4 +1,4 @@
-# Ubuntu 16.04 MySQL Setup
+# Ubuntu 16.04 Initial Setup
 
 TLDR
 
