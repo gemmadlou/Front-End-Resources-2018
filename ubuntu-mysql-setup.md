@@ -22,5 +22,13 @@ chmod 700 ~/.ssh
 vim ~/.ssh/authorized_keys # then paste the public key
 chmod 600 ~/.ssh/authorized_keys
 
+# Turn off password auth
 
+PasswordAuthentication no # inside  /etc/ssh/sshd_config
+PubkeyAuthentication yes
+ChallengeResponseAuthentication no
+
+sudo systemctl reload sshd
+
+# 5) Setup basic firewall
 ```
