@@ -30,5 +30,22 @@ ChallengeResponseAuthentication no
 
 sudo systemctl reload sshd
 
+# Remove password for ubuntu
+
+passwd -d ubuntu
+echo 'ubuntu ALL=(ALL) NOPASSWD:ALL' | sudo EDITOR='tee -a' visudo
+
 # 5) Setup basic firewall
+
+sudo ufw app list
+
+sudo ufw allow OpenSSH # IMPORTANT to allow us to log back in
+
+sudo ufw enable
+
+sudo ufw status
+
+
 ```
+
+
